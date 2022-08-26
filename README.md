@@ -1,10 +1,13 @@
 # Welcome 👋
 ## 🔭 I’m currently working on
-- Distributed systems architecture and design using [Docker](https://www.docker.com/) and [Ubuntu Desktop LTS](https://ubuntu.com/download/desktop) as a host.
+- Graduating from Long Beach State University in Spring 2023
+- Computer Forensics techniques
 ## 🌱 I’m currently learning
-- Distributed systems with applied ethical implications in the evolving technological system.
+- Computation Theory
+- Search Engine Technologies
+- Numerical Analysis (Introduction)
 ## 👯 I’m looking to collaborate on
-- ANYTHING involving Cybersecurity
+- ANYTHING involving Cybersecurity (but preferred toward [Penetration Testing](https://en.wikipedia.org/wiki/Penetration_test))
 - Program building or development
 - Data analytics
 ## 🤔 I’m looking for help with
